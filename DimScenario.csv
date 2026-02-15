@@ -1,0 +1,8 @@
+ScenarioID,scenario_params__scenario,scenario_params__asgn_method,scenario_params__variant_code,scenario_params__attr_scenario
+1,forecast_rr1_expu,prosp,mpfs,pirelli_cms_asgn
+2,forecast_verdi_rr_sim_cnty_expd,prosp,mpfs,pirelli_cms_asgn
+3,forecast_verdi_rr_risk_adj_qexpu,prosp,mpfs,pirelli_cms_asgn
+4,forecast_verdi_rr_expu,prosp,mpfs,pirelli_cms_asgn
+5,forecast_verdi_pirelli_rr_expu,prosp,mpfs,pirelli_cms_asgn
+6,forecast_verdi_pirelli_rr_sim_cnty_expd,prosp,mpfs,pirelli_cms_asgn
+7,forecast_verdi_pirelli_rr_risk_adj_qexpu,prosp,mpfs,pirelli_cms_asgn
